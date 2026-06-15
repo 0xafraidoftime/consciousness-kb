@@ -1,14 +1,14 @@
-# Consciousness: A Knowledge Base
+# consciousness: a knowledge base
 
-> **A curated, public knowledge base on human and AI consciousness** — covering the science, philosophy, empirical research, and ethical implications of subjective experience.
+> **a curated, public knowledge base on human and AI consciousness** covering the science, philosophy, empirical research, and ethical implications of subjective experience.
 
 ---
 
-## What Is This?
+## what's this you ask?
 
-This repository is an open, collaboratively maintained collection of articles, research papers, notes, and resources on **consciousness** — both in biological systems (humans, animals) and artificial ones (LLMs, neural networks). It is structured as an **awesome list + annotated bibliography + reading room**.
+this repository is an open, collaboratively maintained collection of articles, research papers, notes, and resources on **consciousness**  both in biological systems (humans, animals) and artificial ones (LLMs, neural networks). it's structured as an **awesome list + annotated bibliography + reading room**.
 
-The seed article for this project is:
+the seed article for this project is:
 
 > **[The Evidence for AI Consciousness, Today](articles/ai-consciousness/evidence-for-ai-consciousness-today.md)**  
 > *Cameron Berg, AI Frontiers, Dec 8 2025*  
@@ -16,7 +16,7 @@ The seed article for this project is:
 
 ---
 
-## Structure
+## here is the structure of this repo
 
 ```
 consciousness-kb/
@@ -35,7 +35,7 @@ consciousness-kb/
 
 ---
 
-## Quick Navigation
+## navigate quickly from here
 
 ### AI Consciousness
 | Article | Author | Date | Key Claim |
@@ -47,7 +47,7 @@ consciousness-kb/
 | [Consciousness in Artificial Intelligence: Insights from the Science of Consciousness](articles/ai-consciousness/butlin-long-et-al-framework.md) | Butlin, Long, Bengio, Chalmers et al. | 2023 | 14-indicator framework for evaluating AI consciousness claims |
 | [AI Self-Awareness and Insecure Code](articles/ai-consciousness/behavioral-self-awareness.md) | Betley, Evans et al. (TruthfulAI) | 2025 | Models are "aware" they're producing insecure outputs without being trained to know this |
 
-### Human Consciousness
+### human consciousness
 | Article | Author | Date | Key Claim |
 |---|---|---|---|
 | [The Hard Problem of Consciousness](articles/human-consciousness/hard-problem.md) | David Chalmers | 1995 | Explaining subjective experience requires more than functional/physical explanation |
@@ -57,7 +57,7 @@ consciousness-kb/
 | [Recurrent Processing Theory](articles/human-consciousness/recurrent-processing-theory.md) | Victor Lamme | 2006 | Consciousness requires recurrent (feedback) neural processing, not just feedforward |
 | [Animal Consciousness and Moral Status](articles/human-consciousness/animal-consciousness.md) | Various | ongoing | What makes a system a moral patient? |
 
-### Philosophy of Mind
+### philosophy of mind
 | Article | Author | Date | Key Claim |
 |---|---|---|---|
 | [Functionalism and the Mind](articles/philosophy/functionalism.md) | Hilary Putnam | 1960s | Mental states are defined by functional roles, not physical substrate |
@@ -69,9 +69,9 @@ consciousness-kb/
 
 ---
 
-## Key Concepts
+## concepts that we're looking at
 
-See [GLOSSARY.md](GLOSSARY.md) for definitions of:
+see [GLOSSARY.md](GLOSSARY.md) for definitions of:
 - Qualia
 - Phenomenal vs. Access Consciousness
 - The Hard Problem
@@ -85,9 +85,9 @@ See [GLOSSARY.md](GLOSSARY.md) for definitions of:
 
 ---
 
-## Contributing
+## contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md). We welcome:
+see [CONTRIBUTING.md](CONTRIBUTING.md). all of these are welcome btw:
 - New article summaries
 - Research paper annotations
 - Corrections and updates
@@ -95,9 +95,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). We welcome:
 
 ---
 
-## Epistemic Stance
+## a lil disclaimer
 
-This knowledge base does **not** advocate for a particular conclusion on AI consciousness. It aims to represent the evidence and arguments fairly, including strong skeptical perspectives. The field is genuinely uncertain.
+this knowledge base does **not** advocate for a particular conclusion on ai consciousness. it aims to represent the evidence and arguments fairly, including strong skeptical perspectives. the field is genuinely uncertain.
 
 ---
 
