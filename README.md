@@ -1,22 +1,22 @@
-# 🧠 Consciousness: A Knowledge Base
+# Consciousness: A Knowledge Base
 
 > **A curated, public knowledge base on human and AI consciousness** — covering the science, philosophy, empirical research, and ethical implications of subjective experience.
 
 ---
 
-## 📌 What Is This?
+## What Is This?
 
 This repository is an open, collaboratively maintained collection of articles, research papers, notes, and resources on **consciousness** — both in biological systems (humans, animals) and artificial ones (LLMs, neural networks). It is structured as an **awesome list + annotated bibliography + reading room**.
 
 The seed article for this project is:
 
-> 📄 **[The Evidence for AI Consciousness, Today](articles/ai-consciousness/evidence-for-ai-consciousness-today.md)**  
+> **[The Evidence for AI Consciousness, Today](articles/ai-consciousness/evidence-for-ai-consciousness-today.md)**  
 > *Cameron Berg, AI Frontiers, Dec 8 2025*  
 > A growing body of evidence means it's no longer tenable to dismiss the possibility that frontier AIs are conscious.
 
 ---
 
-## 🗂️ Structure
+## Structure
 
 ```
 consciousness-kb/
@@ -35,7 +35,7 @@ consciousness-kb/
 
 ---
 
-## 🔍 Quick Navigation
+## Quick Navigation
 
 ### AI Consciousness
 | Article | Author | Date | Key Claim |
@@ -69,7 +69,7 @@ consciousness-kb/
 
 ---
 
-## 🔑 Key Concepts
+## Key Concepts
 
 See [GLOSSARY.md](GLOSSARY.md) for definitions of:
 - Qualia
@@ -85,7 +85,7 @@ See [GLOSSARY.md](GLOSSARY.md) for definitions of:
 
 ---
 
-## 📬 Contributing
+## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md). We welcome:
 - New article summaries
@@ -95,12 +95,12 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). We welcome:
 
 ---
 
-## ⚠️ Epistemic Stance
+## Epistemic Stance
 
 This knowledge base does **not** advocate for a particular conclusion on AI consciousness. It aims to represent the evidence and arguments fairly, including strong skeptical perspectives. The field is genuinely uncertain.
 
 ---
 
-## 📜 License
+## License
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — share and adapt freely with attribution.
